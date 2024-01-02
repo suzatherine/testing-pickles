@@ -288,11 +288,11 @@ You have two options:
   menu
 
 <div class="menu-wrapper">
-  <<button "enter codeword">><<set $prevpass to $passage>><<goto "codeword">><</button>>
-  <<button "ghost detector">><<set $prevpass to $passage>><<goto "ghostdetector">><</button>>
+  /* <<button "enter codeword">><<set $prevpass to $passage>><<goto "codeword">><</button>> */
+  /* <<button "ghost detector">><<set $prevpass to $passage>><<goto "ghostdetector">><</button>> */
     <<button "location-based">><<set $prevpass to $passage>><<goto "locationBased">><</button>>
      <<button "lofiar">><<set $prevpass to $passage>><<goto "lofiar">><</button>>
-<<button "charisma">><<set $prevpass to $passage>><<goto "AI_Interact">><</button>>         
+/* <<button "charisma">><<set $prevpass to $passage>><<goto "AI_Interact">><</button>>          */
 </div>
 </main>
 <<include "footer">>
