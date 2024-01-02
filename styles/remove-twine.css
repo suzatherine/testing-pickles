@@ -1,0 +1,44 @@
+/* GET RID OF TWINE STYLES */
+#story {
+  margin: 0;
+}
+
+#passages {
+  max-width: 100%;
+}
+
+#story a.link-external:after {
+  content: "";
+}
+
+button {
+  background-color: transparent;
+  border: #fff 1px solid;
+  border-radius: 3px;
+}
+
+button:hover {
+  background-color: #cf1b98;
+  border: #fff 1px solid;
+  color: #fff;
+}
+
+a {
+  color: #f2647d;
+}
+
+a:active {
+  background-color: #f2647d;
+}
+
+a:hover {
+  color: #fff;
+}
+
+#story a.link-external:after {
+  content: "";
+}
+
+#story {
+  margin: 0;
+}
