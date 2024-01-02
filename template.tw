@@ -368,7 +368,7 @@ Enter codeword
 
 <<set $passage to "locationBased">>
 <main>
-<p>Image / link shows based on location</p>
+<p>In the future this will need to:</p>
 <ul>
   <li>Show location permissions</li>
   <li>Show an image when in a certain radius</li>
